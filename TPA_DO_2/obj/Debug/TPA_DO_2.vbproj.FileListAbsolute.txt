@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\TPA_DO_2\TPA_DO_2\bin\Debug\TPA_DO_2.exe.config
+C:\Users\asus\source\repos\TPA_DO_2\TPA_DO_2\bin\Debug\TPA_DO_2.exe
+C:\Users\asus\source\repos\TPA_DO_2\TPA_DO_2\bin\Debug\TPA_DO_2.pdb
+C:\Users\asus\source\repos\TPA_DO_2\TPA_DO_2\bin\Debug\TPA_DO_2.xml
+C:\Users\asus\source\repos\TPA_DO_2\TPA_DO_2\bin\Debug\Guna.UI2.dll
+C:\Users\asus\source\repos\TPA_DO_2\TPA_DO_2\obj\Debug\TPA_DO_2.vbprojAssemblyReference.cache
+C:\Users\asus\source\repos\TPA_DO_2\TPA_DO_2\obj\Debug\TPA_DO_2.Form1.resources
+C:\Users\asus\source\repos\TPA_DO_2\TPA_DO_2\obj\Debug\TPA_DO_2.Resources.resources
+C:\Users\asus\source\repos\TPA_DO_2\TPA_DO_2\obj\Debug\TPA_DO_2.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\TPA_DO_2\TPA_DO_2\obj\Debug\TPA_DO_2.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\TPA_DO_2\TPA_DO_2\obj\Debug\TPA_DO_2.vbproj.CopyComplete
+C:\Users\asus\source\repos\TPA_DO_2\TPA_DO_2\obj\Debug\TPA_DO_2.exe
+C:\Users\asus\source\repos\TPA_DO_2\TPA_DO_2\obj\Debug\TPA_DO_2.xml
+C:\Users\asus\source\repos\TPA_DO_2\TPA_DO_2\obj\Debug\TPA_DO_2.pdb
